@@ -9,10 +9,10 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"NotoDamage"
 		"delta_lifetime"		"2"
-		"delta_item_font"		"NotoBold24"
-		"delta_item_font_big"	"NotoBold24"
-		//"delta_item_font"		"NotoBold24Outline"
-		//"delta_item_font_big"	"NotoBold24Outline"
+		//"delta_item_font"		"NotoBold24"
+		//"delta_item_font_big"	"NotoBold24"
+		"delta_item_font"		"NotoBold28Outline"
+		"delta_item_font_big"	"NotoBold28Outline"
 	}
 	
 	"DamageAccountValue"
@@ -29,6 +29,6 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"west"
 		"fgcolor"		"NotoDamage"
-		"font"			"NotoBold26"
+		"font"			"NotoBold26Outline"
 	}
 }
