@@ -61,10 +61,10 @@ Scheme
 		"NotoHealthShadowBuff"	"32 32 32 0"
 		"NotoHealthShadowLow"	"32 32 32 0"
 		// health backgrounds
-		"NotoHealthBGBuff"		"70 130 180 255"
-		"NotoHealthBGBuff2"		"70 130 180 255"
-		"NotoHealthBGLow"		"205 50 50 255"
-		"NotoHealthBGLow2"		"205 50 50 255"
+		"NotoHealthBGBuff"		"70 130 180 32"
+		"NotoHealthBGBuff2"		"70 130 180 32"
+		"NotoHealthBGLow"		"205 50 50 32"
+		"NotoHealthBGLow2"		"205 50 50 32"
 		
 		// NOTO HEALTH SPECTATOR COLORS
 		"NotoHealthSpecNormal"		"220 220 220 255"
@@ -117,7 +117,7 @@ Scheme
 		"NotoKillstreakLabelShadow"	"32 32 32 0"
 		
 		// NOTO DAMAGE NUMBER COLORS
-		"NotoDamage"		"255 255 0 255"
+		"NotoDamage"		"255 255 0 128"
 		
 		// NOTO CROSSHAIR COLORS
 		// NotoCross and NotoCross2 are default colors, NotoCrossDamage will change the color of the crosshair when damage is dealt
@@ -4856,6 +4856,17 @@ Scheme
 				"tall"		"28"
 				"additive"  "0"
 				"antialias"	"1"
+			}
+		}
+		"NotoBold28Outline"
+		{
+			"1"
+			{
+				"name"		"Open Sans Bold"
+				"tall"		"28"
+				"additive"  "0"
+				"antialias"	"1"
+				"outline"	"1"
 			}
 		}
 		"NotoBold30"
