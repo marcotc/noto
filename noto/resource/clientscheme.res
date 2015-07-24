@@ -4784,6 +4784,17 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"NotoBold28Outline"
+		{
+			"1"
+			{
+				"name"		"Open Sans Bold"
+				"tall"		"28"
+				"additive"  "0"
+				"antialias"	"1"
+				"outline"	"1"
+			}
+		}
 		"NotoBold30"
 		{
 			"1"
